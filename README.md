@@ -1,3 +1,0 @@
-# HelpDesk
-
-Product phase
