@@ -1,0 +1,22 @@
+.opentickets{
+    top: 30%;
+    padding: 80px 20px 10px 20px;
+    max-width: 600px;
+    margin: auto;
+    font-family: Questrial;
+   
+
+}
+
+
+.background {
+    background-image: url('../../assets/landing.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100%;
+}
+
+
+i{
+    margin: 3px;
+}
